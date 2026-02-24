@@ -1,0 +1,11 @@
+C:\Users\lomak\OneDrive\Рабочий стол\lab1_oop\UniversityManagement.Core\bin\Debug\net9.0\UniversityManagement.Core.deps.json
+C:\Users\lomak\OneDrive\Рабочий стол\lab1_oop\UniversityManagement.Core\bin\Debug\net9.0\UniversityManagement.Core.dll
+C:\Users\lomak\OneDrive\Рабочий стол\lab1_oop\UniversityManagement.Core\bin\Debug\net9.0\UniversityManagement.Core.pdb
+C:\Users\lomak\OneDrive\Рабочий стол\lab1_oop\UniversityManagement.Core\obj\Debug\net9.0\UniversityManagement.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lomak\OneDrive\Рабочий стол\lab1_oop\UniversityManagement.Core\obj\Debug\net9.0\UniversityManagement.Core.AssemblyInfoInputs.cache
+C:\Users\lomak\OneDrive\Рабочий стол\lab1_oop\UniversityManagement.Core\obj\Debug\net9.0\UniversityManagement.Core.AssemblyInfo.cs
+C:\Users\lomak\OneDrive\Рабочий стол\lab1_oop\UniversityManagement.Core\obj\Debug\net9.0\UniversityManagement.Core.csproj.CoreCompileInputs.cache
+C:\Users\lomak\OneDrive\Рабочий стол\lab1_oop\UniversityManagement.Core\obj\Debug\net9.0\UniversityManagement.Core.dll
+C:\Users\lomak\OneDrive\Рабочий стол\lab1_oop\UniversityManagement.Core\obj\Debug\net9.0\refint\UniversityManagement.Core.dll
+C:\Users\lomak\OneDrive\Рабочий стол\lab1_oop\UniversityManagement.Core\obj\Debug\net9.0\UniversityManagement.Core.pdb
+C:\Users\lomak\OneDrive\Рабочий стол\lab1_oop\UniversityManagement.Core\obj\Debug\net9.0\ref\UniversityManagement.Core.dll
